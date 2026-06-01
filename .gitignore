@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Models (important for ML projects)
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
+
+# Large datasets (optional)
+*.csv
