@@ -15,9 +15,7 @@ __pycache__/
 .DS_Store
 
 # Models (important for ML projects)
-*.pkl
 *.h5
-*.joblib
 
 # Logs
 *.log
