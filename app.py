@@ -10,7 +10,7 @@ loan_amount=st.number_input("Enter loan amount")
 years_of_experience=st.number_input("Enter year of experience")
 credit_score=st.number_input("Enter credit score")
 
-gender=st.selectbox("Gender",["male","female"])
+gender=st.selectbox("Gender",["Male","Female"])
 education = st.selectbox("Education",["High School","Bachelors","Masters","PhD"])
 city = st.selectbox( "City", ["Houston", "New York", "San Francisco"])
 employment = st.selectbox("Employment Type",["Salaried", "Self-Employed", "Unemployed"])
