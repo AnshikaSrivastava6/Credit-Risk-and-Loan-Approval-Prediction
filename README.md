@@ -138,4 +138,6 @@ To build a robust classification system that can:
 7. Model Evaluation
 8. Model Comparison
 
+## deployement link-https://credit-risk-and-loan-approval-prediction-app.streamlit.app/ 
+
 ---
